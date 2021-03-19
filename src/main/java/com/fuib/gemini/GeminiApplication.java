@@ -8,6 +8,7 @@ public class GeminiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GeminiApplication.class, args);
+		//test
 	}
 
 }
